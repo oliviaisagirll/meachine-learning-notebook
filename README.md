@@ -1,1 +1,1 @@
-# learning notes about meachine learning
+# notes about meachine learning
